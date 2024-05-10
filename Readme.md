@@ -13,11 +13,15 @@ This repository contains a React application showcasing a Tender Download System
 
 1. Clone the repository to your local machine or download the project zip file.
 
-2. Navigate into the project directory:
+2. After extracting the zip file, open the extracted folder.
+
+3. copy the subfolder containing the code and paste it on any location on your computer
+   
+4. Navigate into the project directory:
    ```
    cd TenderDownload
    ```
-3. Type
+5. Type
    ```
    npm install
    ```
