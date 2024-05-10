@@ -17,6 +17,11 @@ This repository contains a React application showcasing a Tender Download System
    ```
    cd TenderDownload
    ```
+3. Type
+   ```
+   npm install
+   ```
+   to intsall dependencies such as the node modules, which is required.
 
 ## Usage
 
