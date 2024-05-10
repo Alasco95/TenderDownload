@@ -55,8 +55,5 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 =======
 
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs, feature requests, or suggestions.
 
 >>>>>>> Stashed changes
