@@ -24,7 +24,7 @@ const App = () => {
         <div className ='app'>
             <div style={{display:'flex'}}>
                 <img src="./movieicon.png" style={{width: 60, height: 60}} alt="Search" onClick={() => {}}/>
-                <h1>Tender Download System</h1>
+                <h1>Tender Movies</h1>
             </div>
             <div className ='search'>
                 <input placeholder ='search for movies' value={searchTerm} onChange={(e) => setSearchTerm(e.target.value)} />
